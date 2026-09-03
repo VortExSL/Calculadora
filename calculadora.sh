@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 /home/herobrinegame/praticando/calculadora.py
+python3 /home/youruser/yourdirectory/calculadora.py
