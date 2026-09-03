@@ -1,5 +1,5 @@
 while True:
-  print("\n-- testando calculadora! --")
+  print("\n-- Calculadora Simples! --")
   print("1. adiçao (+)")
   print("2. subtraçao (-)")
   print("3. multiplicaçao (*)")
